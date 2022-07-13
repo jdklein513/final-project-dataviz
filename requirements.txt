@@ -7,4 +7,3 @@ plotly==5.5.0
 pybaseball==2.2.1
 voila
 ipywidgets
-math
